@@ -3,7 +3,7 @@
 
 - ✨TribalDevs✨
 - 💻 Web Developing
-
+|**Computer Science**|
 |           | **Lunes**                       | **Martes**                      | **Miercoles**                   | **Jueves**                      | **Viernes**                     |
 |-----------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
 | **13:00** | Administracion de Base de Datos | Administracion de Base de Datos | Administracion de Base de Datos | Administracion de Base de Datos | Administracion de Base de Datos |
