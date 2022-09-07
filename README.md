@@ -1,6 +1,7 @@
 
 ### Hi, I'm Isaac.
 
+- Padawan at **[@hackademymx](https://github.com/hackademymx)**
 - ✨TribalDevs✨
 - 💻 Web Developing
 
